@@ -19,3 +19,5 @@
 Необходимо дожидаться ввода всех 7-ми символов (включая решётку), чтобы принимать решение о том, показывать ошибку или менять цвет фона.
 
 ---
+
+[![Build status](https://ci.appveyor.com/api/projects/status/x2q9qx6ixmwtbdnj/branch/main?svg=true)](https://ci.appveyor.com/project/222Alexa44925/ra-forms-hex2rgb/branch/main)

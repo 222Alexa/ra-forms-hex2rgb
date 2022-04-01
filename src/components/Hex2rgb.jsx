@@ -37,7 +37,7 @@ export default function Hex2rgb() {
               type="text"
               placeholder="Введите значение..."
               value={inputHex}
-              maxlength="7"
+              maxLength="7"
               onChange={handleChangeInput}
             />
           </div>
